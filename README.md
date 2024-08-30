@@ -1,5 +1,5 @@
 - git init
-- git remote add origin https://github.com/antoine2702/init-project.git
+- git remote add origin https://github.com/DigitalDev04/init.git
 - git pull origin master
 - git remote remove origin
 
